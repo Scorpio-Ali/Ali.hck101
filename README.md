@@ -17,6 +17,6 @@
 Here’s where I explore, break, fix, and write:
 - 🕷️ [Bug bounty findings](https://github.com/Ali.hck101/bug-bounty-writeups)
 - 🚩 [CTF writeups](https://github.com/Ali.hck101/ctf-writeups)
-- 🔧 [Cybersecurity tools & scripts](https://github.com/Ali.hck101/cyber-tools)
+- 🔧 [Cybersecurity tools & scripts](https://github.com/Scorpio-Ali/Ali.hck101/cyber-tools)
 
 > “Hack the system. Learn. Share. Repeat.”  
